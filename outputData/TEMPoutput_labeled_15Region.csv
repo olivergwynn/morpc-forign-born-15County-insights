@@ -1,0 +1,337 @@
+STATE,COUNTY,VARIABLE,POP
+Ohio,Delaware,Northern Europe,656
+Ohio,Fairfield,Northern Europe,129
+Ohio,Fayette,Northern Europe,8
+Ohio,Franklin,Northern Europe,2168
+Ohio,Hocking,Northern Europe,41
+Ohio,Knox,Northern Europe,125
+Ohio,Licking,Northern Europe,206
+Ohio,Logan,Northern Europe,11
+Ohio,Madison,Northern Europe,17
+Ohio,Marion,Northern Europe,5
+Ohio,Morrow,Northern Europe,44
+Ohio,Perry,Northern Europe,13
+Ohio,Pickaway,Northern Europe,9
+Ohio,Ross,Northern Europe,9
+Ohio,Union,Northern Europe,56
+Ohio,Delaware,Western Europe,423
+Ohio,Fairfield,Western Europe,145
+Ohio,Fayette,Western Europe,36
+Ohio,Franklin,Western Europe,2192
+Ohio,Hocking,Western Europe,21
+Ohio,Knox,Western Europe,90
+Ohio,Licking,Western Europe,412
+Ohio,Logan,Western Europe,57
+Ohio,Madison,Western Europe,62
+Ohio,Marion,Western Europe,81
+Ohio,Morrow,Western Europe,69
+Ohio,Perry,Western Europe,29
+Ohio,Pickaway,Western Europe,5
+Ohio,Ross,Western Europe,0
+Ohio,Union,Western Europe,67
+Ohio,Delaware,Southern Europe,200
+Ohio,Fairfield,Southern Europe,13
+Ohio,Fayette,Southern Europe,26
+Ohio,Franklin,Southern Europe,1231
+Ohio,Hocking,Southern Europe,8
+Ohio,Knox,Southern Europe,17
+Ohio,Licking,Southern Europe,80
+Ohio,Logan,Southern Europe,0
+Ohio,Madison,Southern Europe,19
+Ohio,Marion,Southern Europe,0
+Ohio,Morrow,Southern Europe,0
+Ohio,Perry,Southern Europe,11
+Ohio,Pickaway,Southern Europe,0
+Ohio,Ross,Southern Europe,3
+Ohio,Union,Southern Europe,51
+Ohio,Delaware,Eastern Europe,746
+Ohio,Fairfield,Eastern Europe,446
+Ohio,Fayette,Eastern Europe,8
+Ohio,Franklin,Eastern Europe,6016
+Ohio,Hocking,Eastern Europe,22
+Ohio,Knox,Eastern Europe,0
+Ohio,Licking,Eastern Europe,275
+Ohio,Logan,Eastern Europe,15
+Ohio,Madison,Eastern Europe,166
+Ohio,Marion,Eastern Europe,41
+Ohio,Morrow,Eastern Europe,0
+Ohio,Perry,Eastern Europe,8
+Ohio,Pickaway,Eastern Europe,11
+Ohio,Ross,Eastern Europe,0
+Ohio,Union,Eastern Europe,55
+Ohio,Delaware,"Europe, other",0
+Ohio,Fairfield,"Europe, other",0
+Ohio,Fayette,"Europe, other",0
+Ohio,Franklin,"Europe, other",0
+Ohio,Hocking,"Europe, other",0
+Ohio,Knox,"Europe, other",0
+Ohio,Licking,"Europe, other",0
+Ohio,Logan,"Europe, other",0
+Ohio,Madison,"Europe, other",0
+Ohio,Marion,"Europe, other",0
+Ohio,Morrow,"Europe, other",0
+Ohio,Perry,"Europe, other",0
+Ohio,Pickaway,"Europe, other",0
+Ohio,Ross,"Europe, other",0
+Ohio,Union,"Europe, other",0
+Ohio,Delaware,Eastern Asia,2394
+Ohio,Fairfield,Eastern Asia,358
+Ohio,Fayette,Eastern Asia,120
+Ohio,Franklin,Eastern Asia,15896
+Ohio,Hocking,Eastern Asia,59
+Ohio,Knox,Eastern Asia,111
+Ohio,Licking,Eastern Asia,467
+Ohio,Logan,Eastern Asia,123
+Ohio,Madison,Eastern Asia,148
+Ohio,Marion,Eastern Asia,71
+Ohio,Morrow,Eastern Asia,30
+Ohio,Perry,Eastern Asia,0
+Ohio,Pickaway,Eastern Asia,13
+Ohio,Ross,Eastern Asia,75
+Ohio,Union,Eastern Asia,489
+Ohio,Delaware,South Central Asia,7845
+Ohio,Fairfield,South Central Asia,1803
+Ohio,Fayette,South Central Asia,0
+Ohio,Franklin,South Central Asia,27744
+Ohio,Hocking,South Central Asia,17
+Ohio,Knox,South Central Asia,55
+Ohio,Licking,South Central Asia,2852
+Ohio,Logan,South Central Asia,57
+Ohio,Madison,South Central Asia,110
+Ohio,Marion,South Central Asia,151
+Ohio,Morrow,South Central Asia,0
+Ohio,Perry,South Central Asia,0
+Ohio,Pickaway,South Central Asia,32
+Ohio,Ross,South Central Asia,62
+Ohio,Union,South Central Asia,1523
+Ohio,Delaware,South Eastern Asia,1041
+Ohio,Fairfield,South Eastern Asia,390
+Ohio,Fayette,South Eastern Asia,115
+Ohio,Franklin,South Eastern Asia,8755
+Ohio,Hocking,South Eastern Asia,0
+Ohio,Knox,South Eastern Asia,79
+Ohio,Licking,South Eastern Asia,416
+Ohio,Logan,South Eastern Asia,113
+Ohio,Madison,South Eastern Asia,22
+Ohio,Marion,South Eastern Asia,83
+Ohio,Morrow,South Eastern Asia,126
+Ohio,Perry,South Eastern Asia,4
+Ohio,Pickaway,South Eastern Asia,0
+Ohio,Ross,South Eastern Asia,127
+Ohio,Union,South Eastern Asia,103
+Ohio,Delaware,Western Asia,607
+Ohio,Fairfield,Western Asia,76
+Ohio,Fayette,Western Asia,0
+Ohio,Franklin,Western Asia,5664
+Ohio,Hocking,Western Asia,0
+Ohio,Knox,Western Asia,8
+Ohio,Licking,Western Asia,262
+Ohio,Logan,Western Asia,0
+Ohio,Madison,Western Asia,40
+Ohio,Marion,Western Asia,140
+Ohio,Morrow,Western Asia,0
+Ohio,Perry,Western Asia,13
+Ohio,Pickaway,Western Asia,58
+Ohio,Ross,Western Asia,0
+Ohio,Union,Western Asia,285
+Ohio,Delaware,"Asia, other",56
+Ohio,Fairfield,"Asia, other",98
+Ohio,Fayette,"Asia, other",0
+Ohio,Franklin,"Asia, other",156
+Ohio,Hocking,"Asia, other",0
+Ohio,Knox,"Asia, other",0
+Ohio,Licking,"Asia, other",8
+Ohio,Logan,"Asia, other",0
+Ohio,Madison,"Asia, other",6
+Ohio,Marion,"Asia, other",0
+Ohio,Morrow,"Asia, other",0
+Ohio,Perry,"Asia, other",0
+Ohio,Pickaway,"Asia, other",0
+Ohio,Ross,"Asia, other",0
+Ohio,Union,"Asia, other",0
+Ohio,Delaware,Eastern Africa,697
+Ohio,Fairfield,Eastern Africa,1120
+Ohio,Fayette,Eastern Africa,7
+Ohio,Franklin,Eastern Africa,24264
+Ohio,Hocking,Eastern Africa,0
+Ohio,Knox,Eastern Africa,39
+Ohio,Licking,Eastern Africa,318
+Ohio,Logan,Eastern Africa,0
+Ohio,Madison,Eastern Africa,7
+Ohio,Marion,Eastern Africa,0
+Ohio,Morrow,Eastern Africa,0
+Ohio,Perry,Eastern Africa,0
+Ohio,Pickaway,Eastern Africa,0
+Ohio,Ross,Eastern Africa,24
+Ohio,Union,Eastern Africa,20
+Ohio,Delaware,Middle Africa,78
+Ohio,Fairfield,Middle Africa,81
+Ohio,Fayette,Middle Africa,0
+Ohio,Franklin,Middle Africa,2561
+Ohio,Hocking,Middle Africa,0
+Ohio,Knox,Middle Africa,0
+Ohio,Licking,Middle Africa,18
+Ohio,Logan,Middle Africa,0
+Ohio,Madison,Middle Africa,0
+Ohio,Marion,Middle Africa,28
+Ohio,Morrow,Middle Africa,0
+Ohio,Perry,Middle Africa,0
+Ohio,Pickaway,Middle Africa,38
+Ohio,Ross,Middle Africa,0
+Ohio,Union,Middle Africa,0
+Ohio,Delaware,Northern Africa,185
+Ohio,Fairfield,Northern Africa,75
+Ohio,Fayette,Northern Africa,0
+Ohio,Franklin,Northern Africa,5283
+Ohio,Hocking,Northern Africa,0
+Ohio,Knox,Northern Africa,0
+Ohio,Licking,Northern Africa,33
+Ohio,Logan,Northern Africa,0
+Ohio,Madison,Northern Africa,0
+Ohio,Marion,Northern Africa,0
+Ohio,Morrow,Northern Africa,15
+Ohio,Perry,Northern Africa,0
+Ohio,Pickaway,Northern Africa,0
+Ohio,Ross,Northern Africa,0
+Ohio,Union,Northern Africa,23
+Ohio,Delaware,Southern Africa,17
+Ohio,Fairfield,Southern Africa,0
+Ohio,Fayette,Southern Africa,0
+Ohio,Franklin,Southern Africa,693
+Ohio,Hocking,Southern Africa,0
+Ohio,Knox,Southern Africa,16
+Ohio,Licking,Southern Africa,0
+Ohio,Logan,Southern Africa,0
+Ohio,Madison,Southern Africa,0
+Ohio,Marion,Southern Africa,0
+Ohio,Morrow,Southern Africa,0
+Ohio,Perry,Southern Africa,0
+Ohio,Pickaway,Southern Africa,0
+Ohio,Ross,Southern Africa,0
+Ohio,Union,Southern Africa,0
+Ohio,Delaware,Western Africa,792
+Ohio,Fairfield,Western Africa,376
+Ohio,Fayette,Western Africa,0
+Ohio,Franklin,Western Africa,17380
+Ohio,Hocking,Western Africa,0
+Ohio,Knox,Western Africa,0
+Ohio,Licking,Western Africa,295
+Ohio,Logan,Western Africa,20
+Ohio,Madison,Western Africa,0
+Ohio,Marion,Western Africa,20
+Ohio,Morrow,Western Africa,0
+Ohio,Perry,Western Africa,0
+Ohio,Pickaway,Western Africa,2
+Ohio,Ross,Western Africa,61
+Ohio,Union,Western Africa,66
+Ohio,Delaware,"Africa, other",2
+Ohio,Fairfield,"Africa, other",46
+Ohio,Fayette,"Africa, other",0
+Ohio,Franklin,"Africa, other",2888
+Ohio,Hocking,"Africa, other",0
+Ohio,Knox,"Africa, other",0
+Ohio,Licking,"Africa, other",21
+Ohio,Logan,"Africa, other",0
+Ohio,Madison,"Africa, other",0
+Ohio,Marion,"Africa, other",8
+Ohio,Morrow,"Africa, other",0
+Ohio,Perry,"Africa, other",0
+Ohio,Pickaway,"Africa, other",0
+Ohio,Ross,"Africa, other",0
+Ohio,Union,"Africa, other",0
+Ohio,Delaware,Australia and New Zealand,66
+Ohio,Fairfield,Australia and New Zealand,0
+Ohio,Fayette,Australia and New Zealand,0
+Ohio,Franklin,Australia and New Zealand,690
+Ohio,Hocking,Australia and New Zealand,0
+Ohio,Knox,Australia and New Zealand,9
+Ohio,Licking,Australia and New Zealand,17
+Ohio,Logan,Australia and New Zealand,16
+Ohio,Madison,Australia and New Zealand,0
+Ohio,Marion,Australia and New Zealand,7
+Ohio,Morrow,Australia and New Zealand,0
+Ohio,Perry,Australia and New Zealand,14
+Ohio,Pickaway,Australia and New Zealand,0
+Ohio,Ross,Australia and New Zealand,0
+Ohio,Union,Australia and New Zealand,0
+Ohio,Delaware,Fiji,0
+Ohio,Fairfield,Fiji,0
+Ohio,Fayette,Fiji,0
+Ohio,Franklin,Fiji,0
+Ohio,Hocking,Fiji,0
+Ohio,Knox,Fiji,0
+Ohio,Licking,Fiji,0
+Ohio,Logan,Fiji,0
+Ohio,Madison,Fiji,0
+Ohio,Marion,Fiji,0
+Ohio,Morrow,Fiji,0
+Ohio,Perry,Fiji,0
+Ohio,Pickaway,Fiji,0
+Ohio,Ross,Fiji,0
+Ohio,Union,Fiji,50
+Ohio,Delaware,"Oceania, other",0
+Ohio,Fairfield,"Oceania, other",0
+Ohio,Fayette,"Oceania, other",0
+Ohio,Franklin,"Oceania, other",219
+Ohio,Hocking,"Oceania, other",0
+Ohio,Knox,"Oceania, other",0
+Ohio,Licking,"Oceania, other",0
+Ohio,Logan,"Oceania, other",0
+Ohio,Madison,"Oceania, other",0
+Ohio,Marion,"Oceania, other",0
+Ohio,Morrow,"Oceania, other",0
+Ohio,Perry,"Oceania, other",0
+Ohio,Pickaway,"Oceania, other",0
+Ohio,Ross,"Oceania, other",0
+Ohio,Union,"Oceania, other",0
+Ohio,Delaware,Latin America,1869
+Ohio,Fairfield,Latin America,1176
+Ohio,Fayette,Latin America,300
+Ohio,Franklin,Latin America,32830
+Ohio,Hocking,Latin America,24
+Ohio,Knox,Latin America,199
+Ohio,Licking,Latin America,947
+Ohio,Logan,Latin America,233
+Ohio,Madison,Latin America,240
+Ohio,Marion,Latin America,326
+Ohio,Morrow,Latin America,25
+Ohio,Perry,Latin America,69
+Ohio,Pickaway,Latin America,181
+Ohio,Ross,Latin America,164
+Ohio,Union,Latin America,347
+Ohio,Delaware,Northern America,604
+Ohio,Fairfield,Northern America,147
+Ohio,Fayette,Northern America,0
+Ohio,Franklin,Northern America,2168
+Ohio,Hocking,Northern America,0
+Ohio,Knox,Northern America,36
+Ohio,Licking,Northern America,168
+Ohio,Logan,Northern America,25
+Ohio,Madison,Northern America,2
+Ohio,Marion,Northern America,26
+Ohio,Morrow,Northern America,21
+Ohio,Perry,Northern America,37
+Ohio,Pickaway,Northern America,12
+Ohio,Ross,Northern America,27
+Ohio,Union,Northern America,126
+,15County,"Africa, other",2965
+,15County,Eastern Africa,26496
+,15County,Middle Africa,2804
+,15County,Northern Africa,5614
+,15County,Southern Africa,726
+,15County,Western Africa,19012
+,15County,Latin America,38930
+,15County,Northern America,3399
+,15County,"Asia, other",324
+,15County,Eastern Asia,20354
+,15County,South Central Asia,42251
+,15County,South Eastern Asia,11374
+,15County,Western Asia,7153
+,15County,Eastern Europe,7809
+,15County,"Europe, other",0
+,15County,Northern Europe,3497
+,15County,Southern Europe,1659
+,15County,Western Europe,3689
+,15County,Australia and New Zealand,819
+,15County,Fiji,50
+,15County,"Oceania, other",219
